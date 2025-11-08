@@ -117,7 +117,7 @@ UrlShortner/
 
 ## 👨‍💻 Author
 
-Your Name - Omar Fawzy
+Omar Fawzy - www.omarfawzy.tech
 
 ## 📄 License
 
